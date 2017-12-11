@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="165dp"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="20dp"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:background="@color/colorGrey"
+        android:gravity="center"
+        android:id="@+id/linear1"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+       >
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="wrap_content"
+            android:text="alimentation"
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear2"
+        android:gravity="center"
+        android:layout_below="@+id/linear1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+    <ImageView
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/imagePicto"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/gateau_au_chocolat" />
+    </LinearLayout>
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

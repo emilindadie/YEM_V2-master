@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">FriendBox</string>
+    <string name="firstName">Prenom</string>
+    <string name="lastName">Nom</string>
+    <string name="email">Email</string>
+    <string name="profil">Profil :</string>
+    <string name="adress">Adresse</string>
+    <string name="code_postal">Code postal</string>
+    <string name="password">******</string>
+    <string name="number">Numero</string>
+    <string name="signUp">Inscription</string>
+    <string name="search_title">rechercher_theme</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="writeYourEmail">Taper votre email</string>
+    <string name="writeYourPassword">Taper votre mot de passe</string>
+    <string name="next">Continuer</string>
+    <string name="haveAccount">Vous avez un compte?</string>
+    <string name="writeYourFirstName">Taper votre prenom</string>
+    <string name="writeYourLastName">Taper votre nom</string>
+    <string name="valideYourEmail">Confirmer votr email</string>
+    <string name="writeYourAdress">Taper votre adresse</string>
+    <string name="writeYourPostalCode">Taper votre code postal</string>
+    <string name="writeYourNumber">Taper votre numero</string>
+    <string name="disabledPeople">Handicap</string>
+    <string name="otherPeople">Normal</string>
+    <string name="valideYourPassword">Confirmer votre mot de passe</string>
+    <string name="valideSignUp">Confirmer l\'inscription</string>
+    <string name="signIn">Se connecter</string>
+    <string name="notHaveAccount">Vous n\'avez pas de compte</string>
+    <string name="myProfil">mon Profil</string>
+    <string name="myLink">Mon lien</string>
+    <string name="theGPS">Le GPS</string>
+    <string name="writeYourMessage">Taper votre message</string>
+    <string name="sendMessage">Envoyer</string>
+    <string name="call">Appeler</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="date">jeudi 23 décembre</string>
+    <string name="contenu">Bonjour julien souhaite vous ajouter</string>
+    <string name="addLink">Accepter</string>
+    <string name="declineLink">Refuser</string>
+</resources>
